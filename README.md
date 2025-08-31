@@ -1,4 +1,4 @@
-# Olá, me chamo Mateus Silva de Souza 👋
+# Olá, me chamo Mateus 👋
 
 Sou um estudante de tecnologia apaixonado por programação, com foco em desenvolvimento Back-End com Java.
 
